@@ -6,7 +6,7 @@ public class PlayerMotor : MonoBehaviour
 {
     private CharacterController controller;
     private Vector3 playerVelocity;
-    private float speed = 5f;
+    private float speed = 60f;
     private bool isGrounded;
     private float gravity = -9.8f;
     // Start is called before the first frame update
