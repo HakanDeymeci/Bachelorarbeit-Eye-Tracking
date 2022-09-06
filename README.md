@@ -12,7 +12,8 @@ The gaze-behaviour of the subjects is always being recorded by the integrated ey
 ___
 1st scene: Base Scene with NPCs
 To create an offline feeling the characters were build as static players in an idle state. The voice-lines were more like robotic than human.
-
+<img src="Scene1.JPG">
+<img src="Scene2.JPG">
 ___
 2nd scene: Stressor Scene with real players:
 Because I are not actually using real online players in this scene I had to figure out how the experience is different in contrast to an offline scene like the base scene. The following points show how the 2nd scene was set up to build a online environment experience for the test persons.
